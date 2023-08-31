@@ -43,7 +43,7 @@ const Panier = ({ listePannier, setListePannier }) => {
                 ))}
             </ul>
             <p>Total : {total} $</p>
-            <button onClick={() => setListePannier([])}>X</button>
+            <button style={{ background: 'yellow', width: "100%", fontSize: '12px', borderRadius: '5px' }} onClick={() => setListePannier([])}>vider</button>
 
         </div>
     )

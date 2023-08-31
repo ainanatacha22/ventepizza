@@ -23,9 +23,9 @@ const Header = ({ listePannier, handleAfficherPanierClick }) => {
         <div className='relative header flex justify-between px-4 md:px-8 lg:px-16 items-center' >
             <h1>Foodbar</h1>
             <Menu />
-            <div >
+            <div className='flex'>
                 <img src={Panier} onClick={handleAfficherPanierClick} className='w-6 h-6' style={{ cursor: 'pointer' }} />
-                <div className='absolute top-1 right-3 w-4 rounded-full text-[12px] text-center bg-red-600'>
+                <div className=' w-4 rounded-full text-[12px] text-center bg-red-600' style={{ marginTop: -8, height: 20, marginLeft: 2 }}>
                     {listePannier.length}
                 </div>
             </div>
