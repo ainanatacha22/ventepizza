@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ventepizza/static/css/main.50ad7b77.css",
+    "main.js": "/ventepizza/static/js/main.be848e27.js",
+    "static/media/pizza1.jpg": "/ventepizza/static/media/pizza1.da082957e1339e4b597f.jpg",
+    "static/media/pizza4.jpg": "/ventepizza/static/media/pizza4.6a375caede41c46286a7.jpg",
+    "static/media/pizza3.jpg": "/ventepizza/static/media/pizza3.fa1564c4380df74118b0.jpg",
+    "static/media/pizza2.jpg": "/ventepizza/static/media/pizza2.fc03e7a0463a49aa75a3.jpg",
+    "index.html": "/ventepizza/index.html",
+    "main.50ad7b77.css.map": "/ventepizza/static/css/main.50ad7b77.css.map",
+    "main.be848e27.js.map": "/ventepizza/static/js/main.be848e27.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50ad7b77.css",
+    "static/js/main.be848e27.js"
+  ]
+}
